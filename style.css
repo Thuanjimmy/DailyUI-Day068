@@ -1,0 +1,50 @@
+body {
+  background-color: #1b1717;
+  font-family: ubuntu;
+  margin: 25px 50px;
+  color: white;
+}
+
+h2 {
+  margin-bottom: 25px;
+}
+
+.box {
+  width: 400px;
+  height: 600px;
+  background-color: #222831;
+  border-radius: 50px;
+  border: white 10px solid;
+  margin: 75px auto;
+  padding: 25px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.greybox {
+  height: 35px;
+  width: 150px;
+  background-color: grey;
+  text-align: right;
+  padding: 5px;
+}
+.text {
+  height: 35px;
+  width: 150px;
+}
+
+a {
+  color: white;
+}
+.button {
+  text-align: center;
+  margin-top: 45px;
+}
+
+.moveover {
+  position: relative;
+  left: 50px;
+}
